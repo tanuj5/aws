@@ -1,11 +1,11 @@
-  
-welcome to lw cloud
+<html>
+<body>
+  <h1> WELCOME!! </h1>
 <br />
-
 <pre>
 <?php
 
-print `ifconfig`;
+<img src width=800 height=600 />
 
 ?>
 </pre>
